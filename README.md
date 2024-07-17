@@ -1,5 +1,5 @@
 
-# <div align="center">Hi, nice to see you here!</div>  
+# <div align="center">Hi 👋, nice to see you here!👨‍💼</div>  
   
 ### <div align="center">My name is Farid Aliev. I am an aspiring frontend developer and I am currently looking for a company</div>
 
