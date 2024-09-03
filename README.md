@@ -1,5 +1,5 @@
 
-# <div align="center">Hi https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif, nice to see you here!👨‍💼</div>  
+# <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), nice to see you here!👨‍💼</div>  
   
 ### <div align="center">My name is Farid Aliev. I am an aspiring frontend developer and I am currently looking for a company</div>
 
