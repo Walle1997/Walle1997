@@ -31,3 +31,5 @@
   <img class="icon" src="https://simpleicons.org/icons/hexlet.svg" width="32" height="32" alt="hexlet icon">
 </a>
 
+### My full tech stack
+JavaScript, HTML, CSS, Bootstrap, Sass/SCSS, Webpack, AJAX, MVC, DOM API, HTTP API, Vercel, Render, React, React Hooks, React redux Toolkit, Jest, npm, Eslint, TDD, prettier, VS Code.
