@@ -1,11 +1,11 @@
 
 # <div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), nice to see you here!👨‍💼</div>  
   
-### <div align="center">My name is Farid Aliev. I am an aspiring frontend developer and I am currently looking for a company</div>
+### <div align="center">My name is Farid Aliev. I am a frontend developer and am currently looking for a company</div>
 
-### <div align="center">for mutually beneficial cooperation, where I can apply the knowledge and skills acquired during my studies.</div>
+### <div align="center">for mutually beneficial cooperation where I can apply my knowledge and skills.</div>
 
-### <div align="center">I am currently a student at the Hexlet School of Information Technology.</div>
+### <div align="center">I am a graduate of the Hexlet School of Information Technology.</div>
 
 ### <div align="center">Please see my resume &#128073; <a href="https://cv.hexlet.io/ru/resumes/5047">&#128209;</a></div>
 
