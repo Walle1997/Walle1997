@@ -14,7 +14,10 @@
 
 
 ### My Skills
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Vue Router](https://img.shields.io/badge/VueRouter-%2342b883.svg?style=for-the-badge&logo=vuejs&logoColor=white)
+![autoAnimatePlugin](https://img.shields.io/badge/autoAnimatePlugin-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![GreenSock](https://img.shields.io/badge/GreenSock-%2342b883.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TAILWIND](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
