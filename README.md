@@ -7,7 +7,7 @@
 
 ### <div align="center">I am a graduate of the Hexlet School of Information Technology.</div>
 
-### <div align="center">Please see my resume &#128073; <a href="https://cv.hexlet.io/ru/resumes/5047">&#128209;</a></div>
+### <div align="center">Please see my resume &#128073; <a href="https://kazan.hh.ru/resume/8e6efcd2ff0d2cdda30039ed1f316e654c614f">&#128209;</a></div>
 
 
 
